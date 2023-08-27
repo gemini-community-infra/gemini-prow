@@ -1,0 +1,3 @@
+# NOTICE: Never upload these files.
+cluster/github-token.yaml
+cluster/hmac-token.yaml
