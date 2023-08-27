@@ -1,6 +1,6 @@
 # prow-config
 
-Prow dev configs for tidb community.
+Prow dev configs for openGemini community.
 
 > 注意： 生产环境至少准备200G磁盘，一个给ghproxy,一个给minio
 
