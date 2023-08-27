@@ -1,0 +1,4 @@
+client_id: << your_oauth_app_client_id >>
+client_secret: << your_oauth_app_client_secret >>
+redirect_url: http://prow.opengemini.org/github-login/redirect
+final_redirect_url: http://prow.opengemini.org/pr
